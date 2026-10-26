@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-image: url(hockey-themed-background-blue-digital-260nw-2525126891.jpg)
+}
+
+.row{
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 25%;
+    border-color: rgb(235, 244, 245);
+}
+
+footer{
+    color:rgb(15, 115, 122);
+    text-align: center;
+    padding: 50px;
+}
